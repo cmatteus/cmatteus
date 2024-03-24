@@ -12,6 +12,8 @@
   <a href="https://www.linkedin.com/in/cau%C3%A3-matteus-vieira-pereira-145837221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmatteus/cmatteus/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmatteus/cmatteus/output/github-contribution-grid-snake.svg">
