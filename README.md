@@ -1,4 +1,4 @@
-## Oie! Eu sou o Cauã Matteus
+## Oie! Eu sou o Cauã Matteus.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmatteus&theme=shadow_green&show_icons=true"/>
